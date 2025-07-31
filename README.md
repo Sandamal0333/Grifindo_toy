@@ -8,8 +8,7 @@ It allows the user to enter employee data and automatically calculate salary com
 ## 🚀 Features
 
 - 🧮 Calculate total salary with basic, overtime, and allowances
-- 🧾 Deduct EPF/ETF contributions and taxes
-- 💾 Save or view salary records (optional)
+- 💾 View salary records
 - 📋 Clean and easy-to-use user interface
 - ⚙ Built with Visual Studio (WinForms)
 
